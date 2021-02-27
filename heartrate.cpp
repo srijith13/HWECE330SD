@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	string Fname,Lname,DBR,MBR,YBR;
-	HeartRate HeartRates;
+	HeartRate myHeartRate;
 	cout<<"\n Please enter full name: "<<endl;
 	getline(cin, Fname);
 	myHeartRate.setfullname(Fname);
