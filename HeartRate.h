@@ -18,6 +18,7 @@ class HeartRates{
 	 void setYearB(const int);                  
  	 int getYearB () const;
 	 int getAge();
+
       	 int getMaximumHeartRate();
  	 int getTargetHeartRate();	 
 	 void printHeartRate ();

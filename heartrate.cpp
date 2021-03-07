@@ -60,6 +60,7 @@ void HeartRates::setYearB (const int yb)
   YearBirth = yb;
 }
 
+
 void HeartRates:: getYearB () const
 {
   return YearBirth;
@@ -82,7 +83,6 @@ int HeartRates::getTargetHeartRate()
   int THR = 0;
   THR = (0.60 * getMaximumHeartRate());
 }
-
 
 void HeartRates:: printHeartRate ()         
 {

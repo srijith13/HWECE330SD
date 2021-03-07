@@ -10,12 +10,9 @@ int main()
   HR3 ( "House", "Gregary", 06, 06, 1987),
   HR4 ("Deckker", "Cloe", 02, 28, 2006);
 
-
   HR1.printHeartRate();
   HR2.printHeartRate();
   HR3.printHeartRate();
   HR4.printHeartRate();
-  
-
 }
 
