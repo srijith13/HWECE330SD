@@ -1,3 +1,6 @@
+//HeartRate.h
+
+
 #ifndef HEARTRATES
 #define HEARTRATES
 #include <string>

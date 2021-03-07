@@ -1,3 +1,5 @@
+//heartrate.cpp
+
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -32,7 +34,7 @@ void HeartRates:: setFirstName (const string &First)
 
 string HeartRates:: getFirstName () const                  
 {
-  return LasFirstName;
+  return FirstName;
 }  
 
 void HeartRates::setMonthB (const int mb)               
